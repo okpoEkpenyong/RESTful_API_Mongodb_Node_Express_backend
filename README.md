@@ -1,7 +1,7 @@
 # RESTful_API_Mongodb_Node_Express_backend
 This backend is meant to work with a frontend app.
 Dependencies (mongoose, body-parser, express)  are already installed;
-Navigate to project dir and from command or terminal run:
+After cloning, navigate to project dir and from command or terminal run:
 1. npm install 
 2. nodemon server
 3. open http://localhost:3000
